@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/cekresi/static/css/main.1a8a0596.css",
-    "main.js": "/cekresi/static/js/main.db9d6bbc.js",
+    "main.js": "/cekresi/static/js/main.57482f8b.js",
     "static/js/787.39e082eb.chunk.js": "/cekresi/static/js/787.39e082eb.chunk.js",
     "index.html": "/cekresi/index.html",
     "main.1a8a0596.css.map": "/cekresi/static/css/main.1a8a0596.css.map",
-    "main.db9d6bbc.js.map": "/cekresi/static/js/main.db9d6bbc.js.map",
+    "main.57482f8b.js.map": "/cekresi/static/js/main.57482f8b.js.map",
     "787.39e082eb.chunk.js.map": "/cekresi/static/js/787.39e082eb.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.1a8a0596.css",
-    "static/js/main.db9d6bbc.js"
+    "static/js/main.57482f8b.js"
   ]
 }
