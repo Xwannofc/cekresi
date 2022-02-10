@@ -1,0 +1,20 @@
+.container-content {
+    margin: 10px;
+    margin-top: 50px;
+    max-width: 600px;
+    border: 1px solid #ced4da;
+    border-radius: 10px;
+    padding: 30px;
+    max-height: 400px;
+    box-shadow: rgba(100, 100, 111, 0.2) 0px 7px 29px 0px;
+}
+
+.container-content h2 {
+    text-align: center;
+}
+
+.container {
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+}

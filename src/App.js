@@ -4,6 +4,7 @@ import 'bootstrap/dist/css/bootstrap.min.css';
 import Content from './component/content';
 
 class App extends React.Component{
+
   render(){
     return (
       <div className="App">
@@ -21,6 +22,7 @@ class App extends React.Component{
         </Navbar>
 
         <Content></Content>
+
       </div>
     );
   }
